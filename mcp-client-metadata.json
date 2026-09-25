@@ -10,6 +10,6 @@
   "response_types": [
     "code"
   ],
-  "scope": "read:me read:account offline_access read:jira:agent-interface",
+  "scope": "read:me read:account read:jira:agent-interface",
   "token_endpoint_auth_method": "none"
 }
