@@ -1,5 +1,5 @@
 {
-  "client_id": "https://YOUR_PUBLIC_DOMAIN.example/mcp-client-metadata.json",
+  "client_id": "https://ravino-chy.github.io/zRovoMCP/mcp-client-metadata.json",
   "client_name": "zRovo MCP",
   "redirect_uris": [
     "http://localhost:9669/auth/callback"
