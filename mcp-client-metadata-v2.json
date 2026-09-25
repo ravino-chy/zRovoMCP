@@ -1,0 +1,15 @@
+{
+  "client_id": "https://ravino-chy.github.io/zRovoMCP/mcp-client-metadata-v2.json",
+  "client_name": "zRovo MCP",
+  "redirect_uris": [
+    "http://localhost:9669/auth/callback"
+  ],
+  "grant_types": [
+    "authorization_code"
+  ],
+  "response_types": [
+    "code"
+  ],
+  "scope": "read:me read:account read:jira:agent-interface search:jira:agent-interface",
+  "token_endpoint_auth_method": "none"
+}
